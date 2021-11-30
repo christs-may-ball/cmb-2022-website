@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cmb-2022-website/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/cmb-2022-website/static/js/main.c1c3a9a8.chunk.js",
+    "main.js.map": "/cmb-2022-website/static/js/main.c1c3a9a8.chunk.js.map",
+    "runtime-main.js": "/cmb-2022-website/static/js/runtime-main.4af2771d.js",
+    "runtime-main.js.map": "/cmb-2022-website/static/js/runtime-main.4af2771d.js.map",
+    "static/js/2.cd73f07a.chunk.js": "/cmb-2022-website/static/js/2.cd73f07a.chunk.js",
+    "static/js/2.cd73f07a.chunk.js.map": "/cmb-2022-website/static/js/2.cd73f07a.chunk.js.map",
+    "static/js/3.233dde0f.chunk.js": "/cmb-2022-website/static/js/3.233dde0f.chunk.js",
+    "static/js/3.233dde0f.chunk.js.map": "/cmb-2022-website/static/js/3.233dde0f.chunk.js.map",
+    "index.html": "/cmb-2022-website/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/cmb-2022-website/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.cd73f07a.chunk.js.LICENSE.txt": "/cmb-2022-website/static/js/2.cd73f07a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cmb-2022-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4af2771d.js",
+    "static/js/2.cd73f07a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c1c3a9a8.chunk.js"
+  ]
+}
