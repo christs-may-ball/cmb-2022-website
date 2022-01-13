@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.d69b986a.chunk.css",
-    "main.js": "/static/js/main.151b2861.chunk.js",
-    "main.js.map": "/static/js/main.151b2861.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a52a20a4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a52a20a4.js.map",
-    "static/js/2.147576fe.chunk.js": "/static/js/2.147576fe.chunk.js",
-    "static/js/2.147576fe.chunk.js.map": "/static/js/2.147576fe.chunk.js.map",
-    "static/js/3.466045c4.chunk.js": "/static/js/3.466045c4.chunk.js",
-    "static/js/3.466045c4.chunk.js.map": "/static/js/3.466045c4.chunk.js.map",
+    "main.css": "/static/css/main.1e2561c5.chunk.css",
+    "main.js": "/static/js/main.510ac615.chunk.js",
+    "main.js.map": "/static/js/main.510ac615.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e3a9f419.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e3a9f419.js.map",
+    "static/js/2.d80bb512.chunk.js": "/static/js/2.d80bb512.chunk.js",
+    "static/js/2.d80bb512.chunk.js.map": "/static/js/2.d80bb512.chunk.js.map",
+    "static/js/3.ceedab57.chunk.js": "/static/js/3.ceedab57.chunk.js",
+    "static/js/3.ceedab57.chunk.js.map": "/static/js/3.ceedab57.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.d69b986a.chunk.css.map": "/static/css/main.d69b986a.chunk.css.map",
-    "static/js/2.147576fe.chunk.js.LICENSE.txt": "/static/js/2.147576fe.chunk.js.LICENSE.txt",
+    "static/css/main.1e2561c5.chunk.css.map": "/static/css/main.1e2561c5.chunk.css.map",
+    "static/js/2.d80bb512.chunk.js.LICENSE.txt": "/static/js/2.d80bb512.chunk.js.LICENSE.txt",
     "static/media/background.00214aa3.png": "/static/media/background.00214aa3.png",
-    "static/media/cropped-logo.92640295.png": "/static/media/cropped-logo.92640295.png"
+    "static/media/index.css": "/static/media/classico.bb6fb99a.ttf",
+    "static/media/cropped-logo.92640295.png": "/static/media/cropped-logo.92640295.png",
+    "static/media/stone-cropped.32b56821.png": "/static/media/stone-cropped.32b56821.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a52a20a4.js",
-    "static/js/2.147576fe.chunk.js",
-    "static/css/main.d69b986a.chunk.css",
-    "static/js/main.151b2861.chunk.js"
+    "static/js/runtime-main.e3a9f419.js",
+    "static/js/2.d80bb512.chunk.js",
+    "static/css/main.1e2561c5.chunk.css",
+    "static/js/main.510ac615.chunk.js"
   ]
 }
