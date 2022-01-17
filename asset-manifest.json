@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.de94eeba.chunk.css",
-    "main.js": "/static/js/main.7d2aad44.chunk.js",
-    "main.js.map": "/static/js/main.7d2aad44.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c1b7dd6c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c1b7dd6c.js.map",
-    "static/js/2.2a3cdc59.chunk.js": "/static/js/2.2a3cdc59.chunk.js",
-    "static/js/2.2a3cdc59.chunk.js.map": "/static/js/2.2a3cdc59.chunk.js.map",
-    "static/js/3.a2724908.chunk.js": "/static/js/3.a2724908.chunk.js",
-    "static/js/3.a2724908.chunk.js.map": "/static/js/3.a2724908.chunk.js.map",
+    "main.js": "/static/js/main.898a8fa0.chunk.js",
+    "main.js.map": "/static/js/main.898a8fa0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c84b7711.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c84b7711.js.map",
+    "static/js/2.7fa5b12b.chunk.js": "/static/js/2.7fa5b12b.chunk.js",
+    "static/js/2.7fa5b12b.chunk.js.map": "/static/js/2.7fa5b12b.chunk.js.map",
+    "static/js/3.5d5dc6ee.chunk.js": "/static/js/3.5d5dc6ee.chunk.js",
+    "static/js/3.5d5dc6ee.chunk.js.map": "/static/js/3.5d5dc6ee.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.de94eeba.chunk.css.map": "/static/css/main.de94eeba.chunk.css.map",
-    "static/js/2.2a3cdc59.chunk.js.LICENSE.txt": "/static/js/2.2a3cdc59.chunk.js.LICENSE.txt",
-    "static/media/background.5e36e863.png": "/static/media/background.5e36e863.png",
+    "static/js/2.7fa5b12b.chunk.js.LICENSE.txt": "/static/js/2.7fa5b12b.chunk.js.LICENSE.txt",
+    "static/media/background-1-landscape.93555acd.jpg": "/static/media/background-1-landscape.93555acd.jpg",
     "static/media/banner.90c8343b.png": "/static/media/banner.90c8343b.png",
     "static/media/index.css": "/static/media/classico.bb6fb99a.ttf",
+    "static/media/prereveal-logo-1.5517f1e4.png": "/static/media/prereveal-logo-1.5517f1e4.png",
     "static/media/prereveal-logo.268c17a0.png": "/static/media/prereveal-logo.268c17a0.png",
-    "static/media/stone.8c367002.png": "/static/media/stone.8c367002.png"
+    "static/media/stone.19467569.png": "/static/media/stone.19467569.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1b7dd6c.js",
-    "static/js/2.2a3cdc59.chunk.js",
+    "static/js/runtime-main.c84b7711.js",
+    "static/js/2.7fa5b12b.chunk.js",
     "static/css/main.de94eeba.chunk.css",
-    "static/js/main.7d2aad44.chunk.js"
+    "static/js/main.898a8fa0.chunk.js"
   ]
 }
