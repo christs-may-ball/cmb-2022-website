@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.de94eeba.chunk.css",
-    "main.js": "/static/js/main.8a6d502c.chunk.js",
-    "main.js.map": "/static/js/main.8a6d502c.chunk.js.map",
+    "main.js": "/static/js/main.5da95346.chunk.js",
+    "main.js.map": "/static/js/main.5da95346.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c84b7711.js",
     "runtime-main.js.map": "/static/js/runtime-main.c84b7711.js.map",
     "static/js/2.84274c95.chunk.js": "/static/js/2.84274c95.chunk.js",
@@ -40,14 +40,14 @@
     "static/media/background-1-landscape.93555acd.jpg": "/static/media/background-1-landscape.93555acd.jpg",
     "static/media/banner.90c8343b.png": "/static/media/banner.90c8343b.png",
     "static/media/index.css": "/static/media/classico.bb6fb99a.ttf",
+    "static/media/postreveal-logo.99b49fe0.png": "/static/media/postreveal-logo.99b49fe0.png",
     "static/media/prereveal-logo-1.5517f1e4.png": "/static/media/prereveal-logo-1.5517f1e4.png",
-    "static/media/prereveal-logo.268c17a0.png": "/static/media/prereveal-logo.268c17a0.png",
     "static/media/stone.19467569.png": "/static/media/stone.19467569.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c84b7711.js",
     "static/js/2.84274c95.chunk.js",
     "static/css/main.de94eeba.chunk.css",
-    "static/js/main.8a6d502c.chunk.js"
+    "static/js/main.5da95346.chunk.js"
   ]
 }
