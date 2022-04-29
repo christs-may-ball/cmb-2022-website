@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.477d7cd4.chunk.css",
-    "main.js": "/static/js/main.80bb2816.chunk.js",
-    "main.js.map": "/static/js/main.80bb2816.chunk.js.map",
+    "main.js": "/static/js/main.42d5c067.chunk.js",
+    "main.js.map": "/static/js/main.42d5c067.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c84b7711.js",
     "runtime-main.js.map": "/static/js/runtime-main.c84b7711.js.map",
     "static/js/2.84274c95.chunk.js": "/static/js/2.84274c95.chunk.js",
@@ -19,6 +19,7 @@
     "static/media/Camille.61c16f67.png": "/static/media/Camille.61c16f67.png",
     "static/media/Charlotte.e97a4848.png": "/static/media/Charlotte.e97a4848.png",
     "static/media/Christina.18dcecec.png": "/static/media/Christina.18dcecec.png",
+    "static/media/Cicely.b273b1ac.png": "/static/media/Cicely.b273b1ac.png",
     "static/media/Clemmie.7fba63b8.png": "/static/media/Clemmie.7fba63b8.png",
     "static/media/Eleanor.7bf817ad.png": "/static/media/Eleanor.7bf817ad.png",
     "static/media/Emily.2a330402.png": "/static/media/Emily.2a330402.png",
@@ -47,6 +48,6 @@
     "static/js/runtime-main.c84b7711.js",
     "static/js/2.84274c95.chunk.js",
     "static/css/main.477d7cd4.chunk.css",
-    "static/js/main.80bb2816.chunk.js"
+    "static/js/main.42d5c067.chunk.js"
   ]
 }
