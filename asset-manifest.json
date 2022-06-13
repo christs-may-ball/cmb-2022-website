@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.477d7cd4.chunk.css",
-    "main.js": "/static/js/main.98ac25af.chunk.js",
-    "main.js.map": "/static/js/main.98ac25af.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c84b7711.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c84b7711.js.map",
-    "static/js/2.84274c95.chunk.js": "/static/js/2.84274c95.chunk.js",
-    "static/js/2.84274c95.chunk.js.map": "/static/js/2.84274c95.chunk.js.map",
-    "static/js/3.5d5dc6ee.chunk.js": "/static/js/3.5d5dc6ee.chunk.js",
-    "static/js/3.5d5dc6ee.chunk.js.map": "/static/js/3.5d5dc6ee.chunk.js.map",
+    "main.js": "/static/js/main.bdbb6f2a.chunk.js",
+    "main.js.map": "/static/js/main.bdbb6f2a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.61574dc5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.61574dc5.js.map",
+    "static/js/2.341d4b9c.chunk.js": "/static/js/2.341d4b9c.chunk.js",
+    "static/js/2.341d4b9c.chunk.js.map": "/static/js/2.341d4b9c.chunk.js.map",
+    "static/js/3.2096f91e.chunk.js": "/static/js/3.2096f91e.chunk.js",
+    "static/js/3.2096f91e.chunk.js.map": "/static/js/3.2096f91e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.477d7cd4.chunk.css.map": "/static/css/main.477d7cd4.chunk.css.map",
-    "static/js/2.84274c95.chunk.js.LICENSE.txt": "/static/js/2.84274c95.chunk.js.LICENSE.txt",
+    "static/js/2.341d4b9c.chunk.js.LICENSE.txt": "/static/js/2.341d4b9c.chunk.js.LICENSE.txt",
     "static/media/Accessibility-Handbook.f9b92018.pdf": "/static/media/Accessibility-Handbook.f9b92018.pdf",
     "static/media/Andy.02e2d610.png": "/static/media/Andy.02e2d610.png",
     "static/media/Becca.3cdb7094.png": "/static/media/Becca.3cdb7094.png",
@@ -40,14 +40,18 @@
     "static/media/Sophie.31791b44.png": "/static/media/Sophie.31791b44.png",
     "static/media/index.css": "/static/media/classico.bb6fb99a.ttf",
     "static/media/banner.90c8343b.png": "/static/media/banner.90c8343b.png",
+    "static/media/cambridge-tailors-resized.9596e365.jpg": "/static/media/cambridge-tailors-resized.9596e365.jpg",
+    "static/media/granny-ma-resized.cb25806e.jpg": "/static/media/granny-ma-resized.cb25806e.jpg",
+    "static/media/hirestreet-resized.9db4614b.jpg": "/static/media/hirestreet-resized.9db4614b.jpg",
     "static/media/postreveal-logo.99b49fe0.png": "/static/media/postreveal-logo.99b49fe0.png",
     "static/media/prereveal-logo-1.5517f1e4.png": "/static/media/prereveal-logo-1.5517f1e4.png",
+    "static/media/seanhanna-1-resized.e307f348.jpg": "/static/media/seanhanna-1-resized.e307f348.jpg",
     "static/media/stone.19467569.png": "/static/media/stone.19467569.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c84b7711.js",
-    "static/js/2.84274c95.chunk.js",
+    "static/js/runtime-main.61574dc5.js",
+    "static/js/2.341d4b9c.chunk.js",
     "static/css/main.477d7cd4.chunk.css",
-    "static/js/main.98ac25af.chunk.js"
+    "static/js/main.bdbb6f2a.chunk.js"
   ]
 }
