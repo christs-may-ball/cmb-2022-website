@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.477d7cd4.chunk.css",
-    "main.js": "/static/js/main.4d9c34bb.chunk.js",
-    "main.js.map": "/static/js/main.4d9c34bb.chunk.js.map",
+    "main.js": "/static/js/main.96ea0be8.chunk.js",
+    "main.js.map": "/static/js/main.96ea0be8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f44bd054.js",
     "runtime-main.js.map": "/static/js/runtime-main.f44bd054.js.map",
     "static/js/2.f69b811a.chunk.js": "/static/js/2.f69b811a.chunk.js",
@@ -12,7 +12,6 @@
     "index.html": "/index.html",
     "static/css/main.477d7cd4.chunk.css.map": "/static/css/main.477d7cd4.chunk.css.map",
     "static/js/2.f69b811a.chunk.js.LICENSE.txt": "/static/js/2.f69b811a.chunk.js.LICENSE.txt",
-    "static/media/Accessibility-Handbook.f9b92018.pdf": "/static/media/Accessibility-Handbook.f9b92018.pdf",
     "static/media/Andy.02e2d610.png": "/static/media/Andy.02e2d610.png",
     "static/media/Becca.3cdb7094.png": "/static/media/Becca.3cdb7094.png",
     "static/media/Benji.8eb2b2fb.png": "/static/media/Benji.8eb2b2fb.png",
@@ -52,6 +51,6 @@
     "static/js/runtime-main.f44bd054.js",
     "static/js/2.f69b811a.chunk.js",
     "static/css/main.477d7cd4.chunk.css",
-    "static/js/main.4d9c34bb.chunk.js"
+    "static/js/main.96ea0be8.chunk.js"
   ]
 }
